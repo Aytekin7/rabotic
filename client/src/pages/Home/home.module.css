@@ -1,0 +1,11 @@
+.home{
+    height: 100vh;
+    background:url('https://preview.colorlib.com/theme/robotics/img/banner-bg.jpg.webp');
+    background-size: cover;
+    margin-top: 80px;
+
+}
+.button:hover{
+    background-color: blueviolet;
+
+}
